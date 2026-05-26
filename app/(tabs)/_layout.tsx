@@ -43,6 +43,15 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="striper"
+        options={{
+          title: 'Striper',
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="fish-outline" size={size} color={color} />
+          ),
+        }}
+      />
     </Tabs>
   );
 }
