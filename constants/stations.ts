@@ -40,6 +40,27 @@ export const TIDE_STATIONS: TideStation[] = [
     area: 'Delaware River',
   },
   {
+    // User-facing Pennsville location using the closest practical NOAA Delaware River station.
+    id: '8551762',
+    name: 'Pennsville',
+    area: 'Delaware River / Pennsville area',
+    note: 'Uses Delaware City NOAA station as the closest lower river reference.',
+  },
+  {
+    // NOAA CO-OPS station for Salem, NJ on the Salem River.
+    id: '8537979',
+    name: 'Salem',
+    area: 'Salem River / Delaware River',
+    note: 'Useful for Salem River timing and lower South Jersey river movement.',
+  },
+  {
+    // NOAA CO-OPS station for Hancocks Bridge, Alloway Creek, NJ.
+    id: '8537753',
+    name: 'Hancocks Bridge',
+    area: 'Alloway Creek / Delaware River',
+    note: 'Useful for Alloway Creek and lower Salem County tide timing.',
+  },
+  {
     // Exact station from desktop Delaware Tides app.
     id: '8551762',
     name: 'Delaware City, DE',

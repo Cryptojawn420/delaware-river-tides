@@ -121,6 +121,18 @@ export const STATION_STRIPER_NOTES: StationStriperNote[] = [
     tideTip: 'Compare this station against the creek stations to understand timing upriver.',
   },
   {
+    stationId: '8537979',
+    areaType: 'Salem River / lower South Jersey tidal creek',
+    localRead: 'Salem gives a good read on Salem River timing, creek-mouth movement, and lower South Jersey striper patterns.',
+    tideTip: 'Watch the moving water around the creek mouth and avoid judging the bite only by the clock.',
+  },
+  {
+    stationId: '8537753',
+    areaType: 'Alloway Creek / Hancocks Bridge tidal water',
+    localRead: 'Hancocks Bridge is useful for Alloway Creek timing, spring bait movement, and lower Salem County river patterns.',
+    tideTip: 'Creek tides can lag and swing differently, so use the tide change as a window, not a guarantee.',
+  },
+  {
     stationId: '8551762',
     areaType: 'Lower river / upper bay transition',
     localRead: 'Delaware City is useful for tracking lower-river and upper-bay movement.',
