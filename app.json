@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "jersey-tides-mobile",
+    "name": "Jersey Tides",
     "slug": "jersey-tides-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "jerseytidesmobile",
+    "scheme": "jerseytides",
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true
