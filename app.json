@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Jersey Tides",
-    "slug": "jersey-tides-mobile",
+    "name": "Delaware River Tides",
+    "slug": "delaware-river-tides",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "jerseytides",
+    "scheme": "delawarerivertides",
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true
@@ -31,7 +31,7 @@
         {
           "image": "./assets/images/splash-icon.png",
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
+          "backgroundColor": "#e0f2fe"
         }
       ]
     ],
